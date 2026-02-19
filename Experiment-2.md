@@ -2,16 +2,16 @@
 
 ## Aim
 
-1.List all distinct job in employee.
-2.List all information about employee in department no 30.
-3.Find all department member with department names greater than 20.
-4.Find all information about all the managers as well as the clerks in department 30.
-5.List the employee name, employee members and department of all clerks
-6.Find all managers in department 30
-7.List info about all employees in department 10 who are not managers or clerks.
-8.Find employees and jobs earning between 1200 to 1400.
-9.List Name and department no of employee who are clerks analyst or salesman.
-10.List name and department no of employee whose names began with M.
+1.List all distinct job in employee.  
+2.List all information about employee in department no 30.  
+3.Find all department member with department names greater than 20.  
+4.Find all information about all the managers as well as the clerks in department 30.  
+5.List the employee name, employee members and department of all clerks  
+6.Find all managers in department 30  
+7.List info about all employees in department 10 who are not managers or clerks.  
+8.Find employees and jobs earning between 1200 to 1400.  
+9.List Name and department no of employee who are clerks analyst or salesman.  
+10.List name and department no of employee whose names began with M.  
 
 ## Queries
 
