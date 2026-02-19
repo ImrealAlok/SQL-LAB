@@ -1,4 +1,4 @@
-#Experiment-1
+# Experiment-1
 
 ## Aim
 
@@ -8,7 +8,7 @@
 4. Alter SAL with size 10,2 in employee_master
 5. Drop employee-master table.
 
-##Query
+## Query
 
 ### Create employee_master table wiht data using employee table.
 
