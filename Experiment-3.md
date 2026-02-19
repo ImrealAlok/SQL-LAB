@@ -2,15 +2,15 @@
 
 ## Aim
 
-1.List all employers and jobs in department 30 in descending order by salary.
-2.List job and department No. of employes whose name are five letters long begin with "A" and end with "N"
-3.Display name of employes whose name ends with alphabet S.
-4.Display the names of employes working in department no. 10 or 20 or 40 or employers working as clerks, salesman or analyst.
-5.Display employee member names for employes who earn commission
-6.Display employee no. and total salary for each employee.
-7.Display employee no and annual salary for each employee.
-8.Display the names of all employes working as clerks and drawing a salary more than 3000.
-9.Display the names of employees who are working and drawing a salary more than 3000.
+1.List all employers and jobs in department 30 in descending order by salary.  
+2.List job and department No. of employes whose name are five letters long begin with "A" and end with "N"  
+3.Display name of employes whose name ends with alphabet S.  
+4.Display the names of employes working in department no. 10 or 20 or 40 or employers working as clerks, salesman or analyst.  
+5.Display employee member names for employes who earn commission  
+6.Display employee no. and total salary for each employee.  
+7.Display employee no and annual salary for each employee.  
+8.Display the names of all employes working as clerks and drawing a salary more than 3000.  
+9.Display the names of employees who are working and drawing a salary more than 3000.  
 
 ## Queries
 
