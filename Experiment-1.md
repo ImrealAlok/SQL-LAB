@@ -35,3 +35,7 @@
 ```
 
 ## Drop employee-master table.
+
+```sql
+    DROP TABLE Employee_Master
+```
