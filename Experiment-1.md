@@ -34,8 +34,9 @@
     ALTER TABLE Employee_Master MODIFY sal DECIMAL(10,2);
 ```
 
-## Drop employee-master table.
+### Drop employee-master table.
 
 ```sql
     DROP TABLE Employee_Master
 ```
+
